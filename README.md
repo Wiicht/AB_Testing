@@ -1,5 +1,6 @@
 ## Analyze AB Test Results
-Within the framework this project, we tried to understand whether the company should implement a new page or keep the old page with following:
+Within the framework of this project, I tried to understand whether the company should implement a new page or keep the old page. To do so
+I use probability, A/B testing and regression.
 
 - **Probability based approach**
 - **A/B test**
